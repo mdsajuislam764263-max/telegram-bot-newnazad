@@ -2,7 +2,7 @@
   "bot": {
     "token": "8872424353:AAGd1iBeUXNYjF8_Kr4rsPUjufXJGhzmIR4",
     "username": "TC_saju_bot",
-    "prefix": "/"
+    "prefix": "."
   },
   "admins": [8809385256],
   "owner": 8809385256,
